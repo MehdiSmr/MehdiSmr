@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey, I'm Mehdi  
 
 ### SWE student @ **uOttawa**  
