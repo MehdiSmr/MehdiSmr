@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="assets/luffy.gif" width="1000" height="400"/>
-
-<div align="center">
-
 # 👋 Hey, I'm Mehdi  
 
 ### SWE student @ **uOttawa**  
