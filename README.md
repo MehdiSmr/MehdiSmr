@@ -4,7 +4,7 @@
 
 ### SWE student @ **uOttawa**  
 ### Looking for learning experiences  
-### Building [rzosports.com](https://rzosports.com/) ⚽
+### Building [rzosports.com](https://rzosports.com/)
 ### Check out [mehdisemmar.me](https://mehdisemmar.me)  
 ### Would love to connect on [LinkedIn](https://www.linkedin.com/in/mehdi-semmar-946a1b27b) :) 
 
@@ -94,7 +94,7 @@
 <br>
 
 <div align="center">
-  
+
 ### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
 
 </div>
