@@ -93,8 +93,6 @@
 
 <br>
 
-<br>
-
 <div align="center">
   
 ### ⭐ Thanks for visiting! Feel free to explore my repositories ⭐
